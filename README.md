@@ -7,7 +7,7 @@
 | 01.     | [What is Data Science?](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/01-What%20is%20Data%20Science)|✅|
 | 02.     | [Tools for Data Science](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/02-Tools%20for%20Data%20Science)|✅|
 | 03.     | [Data Science Methodology](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/03-Data%20Science%20Methodology)|✅|
-| 04.     | [Python for Data Science, AI & Development](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/04-Python%20for%20Data%20Science%2C%20AI%20%26%20Development)|✅|
+| 04.     | [Python for Data Science, AI & Development](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/04-Python%20for%20Data%20Science%2C%20AI%20%26%20Development)|✅| 
 | 05.     | [Python Project for Data Science](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/05-Python%20Project%20for%20Data%20Science)|✅|   
 | 06.     | [Databases and SQL for Data Science]() 									    |
 | 07.     | [Data Analysis with Python]()                   							|
