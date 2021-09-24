@@ -7,7 +7,7 @@
 | 01.     | [What is Data Science?](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/01-What%20is%20Data%20Science)|✅|
 | 02.     | [Tools for Data Science](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/02-Tools%20for%20Data%20Science)|✅|
 | 03.     | [Data Science Methodology](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/03-Data%20Science%20Methodology)|✅|
-| 04.     | [Python for Data Science, AI & Development](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/04-Python%20for%20Data%20Science%2C%20AI%20%26%20Development)|✅| 
+| 04.     | [Python for Data Science, AI & Development](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/04-Python%20for%20Data%20Science%2C%20AI%20%26%20Development)|✅|
 | 05.     | [Python Project for Data Science](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/05-Python%20Project%20for%20Data%20Science)|✅|   
 | 06.     | [Databases and SQL for Data Science]() 									    |
 | 07.     | [Data Analysis with Python]()                   							|
@@ -22,7 +22,7 @@
 
 It’s a myth that to become a data scientist you need a Ph.D. Anyone with a passion for learning can take this Professional Certificate – no prior knowledge of computer science or programming languages required – and develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry level data scientist.
 
-The program consists of 9 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.
+The program consists of 10 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.
 
 Upon successfully completing these courses, you will have built a portfolio of data science projects to provide you with the confidence to plunge into an exciting profession in data science..
 
