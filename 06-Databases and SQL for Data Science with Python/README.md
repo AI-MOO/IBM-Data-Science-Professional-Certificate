@@ -1,4 +1,4 @@
-# [Python Project for Data Science](https://www.coursera.org/learn/sql-data-science)
+# [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science)
 
 ### [Weekly Summaries](https://drive.google.com/drive/folders/18FJXMz83kDibfGiqZMQvc9emRKXFEuRi?usp=sharing)
 
