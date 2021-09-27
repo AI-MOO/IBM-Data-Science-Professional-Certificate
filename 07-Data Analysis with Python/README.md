@@ -1,4 +1,4 @@
-# [Python Project for Data Science](https://www.coursera.org/learn/data-analysis-with-python)
+# [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
 
 ### [Weekly Summaries](https://drive.google.com/drive/folders/1KghtREPB73bsd7KgtK5pcwWc6yg2-kS2?usp=sharing)
 
