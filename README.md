@@ -10,7 +10,7 @@
 | 04.     | [Python for Data Science, AI & Development](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/04-Python%20for%20Data%20Science%2C%20AI%20%26%20Development)|✅|
 | 05.     | [Python Project for Data Science](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/05-Python%20Project%20for%20Data%20Science)|✅|   
 | 06.     | [Databases and SQL for Data Science]() 									    |✅|
-| 07.     | [Data Analysis with Python]()                   							|
+| 07.     | [Data Analysis with Python]()                   							|✅|
 | 08.     | [Data Visualization with Python]()         								  |
 | 09.     | [Machine Learning with Python]()             							  |
 | 10.     | [Applied Data Science Capstone]()           								  |
